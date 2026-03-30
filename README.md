@@ -1,6 +1,5 @@
 # Data_cleaning_python_cheatsheet
 ---
-
 ## 🧹 Data Cleaning in Python – Cheat Sheet
 
 This repository contains a quick and practical cheat sheet for **data cleaning using Pandas and NumPy**. It covers the most commonly used techniques required for preparing raw data for analysis and machine learning.
